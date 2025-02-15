@@ -4,7 +4,7 @@
 
 	"modules-left": [
 		"sway/mode",
-		"sway/workspaces",
+		"hyprland/workspaces",
 		"custom/arrow10",
 		"sway/window"
 	],
